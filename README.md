@@ -2,11 +2,11 @@
 
 <div align="right">
   <a href="https://github.com/abraxas0001" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/abraxas0001.png" alt="abraxas0001" width="80" style="border-radius:50%;">
+    <img src="https://github.com/abraxas0001.png" alt="abraxas0001" width="150" style="border-radius:50%;">
   </a>
 </div>
 
-**Don't let lack of resources hinder our growth ~**.
+Don't let the lack of resources hinder our growth ~
 <a href="https://github.com/abraxas0001" target="_blank" rel="noopener noreferrer">**Socialist Abra**</a>  
 *Last Updated: November 10, 2025*
 
