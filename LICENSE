@@ -1,22 +1,21 @@
 Copyright (c) 2025 Abra (abraxas0001)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, subject to the following condition:
+Hey — this project is here to help people. Use it, tweak it, and share it. If you're short on cash and need guidance, we hope this repo points you to legal, ethical, and open-source options.
 
-Addendum — Anti-Piracy Clause:
-The permissions granted above do NOT extend to any use, distribution, facilitation,
-or assistance that promotes, enables, or facilitates piracy, unlawful access to,
-or unlawful distribution of copyrighted material. This includes, but is not limited to:
-- Distributing or linking to pirated copies of software, media, or other copyrighted works.
-- Providing instructions, tools, or methods to bypass licensing, DRM, or access controls.
-- Assisting others in acquiring copyrighted works unlawfully.
+Declaration from the owner:
+I (Abra) do NOT promote piracy. This project is NOT intended to enable or facilitate piracy, illegal access, or unlawful distribution of copyrighted material. It's made to help users who are broke or lack resources by providing legal, educational, and ethical information and alternatives.
 
-The Software is provided "AS IS", without warranty of any kind, express or implied,
-including but not limited to the warranties of merchantability, fitness for a particular
-purpose and noninfringement. In no event shall the authors or copyright holders be liable
-for any claim, damages or other liability, whether in an action of contract, tort or
-otherwise, arising from, out of or in connection with the Software or the use or other
-dealings in the Software.
+Permission:
+Permission is granted, free of charge, to anyone to use the Software for any lawful purpose, including copying, modifying, publishing, distributing, sublicensing, and selling copies of the Software.
+
+Please do not use this project to:
+- Distribute or link to pirated software, media, or other copyrighted works.
+- Provide instructions or tools to bypass licenses, DRM, or other access controls.
+- Help others obtain copyrighted works unlawfully.
+
+If you see content that looks like it promotes piracy, please open an issue or contact the maintainers so we can remove it.
+
+Disclaimer:
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. THE AUTHOR(S) ARE NOT LIABLE FOR ANY CLAIMS OR DAMAGES ARISING FROM USE OF THE SOFTWARE.
+
+If you're unsure whether something is okay to add, please ask first — open an issue and we'll discuss it.
